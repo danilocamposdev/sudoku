@@ -31,18 +31,18 @@ Para executar este projeto, você precisará ter instalado:
 
 1. Clone o repositório:
 
-```bash
+   ```bash
    git clone https://github.com/danilocamposdev/sudoku.git
-```
+   ```
 
-1. Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:
 
-```bash
+   ```bash
    cd sudoku
-```
+   ```
 
-1. Compile e execute o projeto via Maven:
+3. Compile e execute o projeto via Maven:
 
-```bash
+   ```bash
    mvn exec:java -Dexec.mainClass="com.danilocampos.App"
-```
+   ```
