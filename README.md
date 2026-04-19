@@ -1,6 +1,6 @@
 # Sudoku
 
-[![Java 25](https://img.shields.io/badge/Java-25-orange?style=for-the-badge&logo=openjdk)](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
+[![Java 25](https://img.shields.io/badge/Java-25-orange?style=for-the-badge&logo=openjdk)](https://www.oracle.com/java/technologies/javase/jdk25-archive-downloads.html)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 
 Aplicação do Sudoku desenvolvida em Java focada na lógica algorítmica e abstração. O projeto implementa algoritmos de backtracking para garantir a geração de tabuleiros com soluções únicas e com níveis de dificuldade diferentes.
@@ -34,11 +34,13 @@ Para executar este projeto, você precisará ter instalado:
 ```bash
    git clone https://github.com/danilocamposdev/sudoku.git
 ```
+
 1. Navegue até o diretório do projeto:
 
 ```bash
    cd sudoku
 ```
+
 1. Compile e execute o projeto via Maven:
 
 ```bash
