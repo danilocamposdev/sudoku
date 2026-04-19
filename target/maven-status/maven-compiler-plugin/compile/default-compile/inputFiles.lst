@@ -1,0 +1,7 @@
+/home/danilo/projects/java/sudoku/src/main/java/com/danilocampos/App.java
+/home/danilo/projects/java/sudoku/src/main/java/com/danilocampos/model/Board.java
+/home/danilo/projects/java/sudoku/src/main/java/com/danilocampos/model/DifficultyEnum.java
+/home/danilo/projects/java/sudoku/src/main/java/com/danilocampos/model/Field.java
+/home/danilo/projects/java/sudoku/src/main/java/com/danilocampos/model/GameStatusEnum.java
+/home/danilo/projects/java/sudoku/src/main/java/com/danilocampos/model/Region.java
+/home/danilo/projects/java/sudoku/src/main/java/com/danilocampos/util/BoardTemplate.java
